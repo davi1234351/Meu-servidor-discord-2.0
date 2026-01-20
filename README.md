@@ -56,7 +56,7 @@
   <div class="card">
     <h1>🔥 Meu Servidor Discord</h1>
     <p>Entre no nosso servidor e faça parte da comunidade!</p>
-    <!-- TROQUE O LINK ABAIXO PELO LINK DE CONVITE DO SEU DISCORD -->
+    <!--https://discord.gg/8YcQGwsa9-->
     <a class="button" href="https://discord.gg/SEULINK" target="_blank">Entrar no Discord</a>
     <footer>
       <p>© 2026 - Comunidade Discord</p>
